@@ -1,5 +1,5 @@
 /*
-$Header: /var/lib/cvsd/var/lib/cvsd/RegEdit/CLI.cs,v 1.1.1.1 2012-10-30 16:45:59 timb Exp $
+$Header: /var/lib/cvsd/var/lib/cvsd/RegEdit/CLI.cs,v 1.2 2012-10-30 17:01:50 timb Exp $
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
