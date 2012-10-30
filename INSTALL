@@ -1,0 +1,9 @@
+To install:
+
+1) Check you have Microsoft .NET CF 3.5 (or possibly earlier)
+   installed
+2) Compile with Visual Studio C# .NET 2003 or similar
+3) Copy RegEdit.exe to your Windows CE device
+
+The latest version of RegEdit can always be found at
+<http://www.nth-dimension.org.uk/>.

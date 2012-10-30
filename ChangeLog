@@ -1,0 +1,4 @@
+0.0 - 0.1
+
+* Initial PoC written to get Windows CE registry set up to
+  run OpenSSH

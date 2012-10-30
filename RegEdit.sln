@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEdit", "RegEdit.csproj", "{28B811CE-4D63-4F5B-8A81-00DE6CFBFF60}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{28B811CE-4D63-4F5B-8A81-00DE6CFBFF60}.Debug.ActiveCfg = Debug|.NET
+		{28B811CE-4D63-4F5B-8A81-00DE6CFBFF60}.Debug.Build.0 = Debug|.NET
+		{28B811CE-4D63-4F5B-8A81-00DE6CFBFF60}.Release.ActiveCfg = Release|.NET
+		{28B811CE-4D63-4F5B-8A81-00DE6CFBFF60}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
